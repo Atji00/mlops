@@ -13,10 +13,10 @@ env:
 on:
   push:
     branches:
-    - main
+    - master
   pull_request:
     branches:
-    - main
+    - master
 
 # this pipeline consists of a two jobs named ci_pipeline
 
